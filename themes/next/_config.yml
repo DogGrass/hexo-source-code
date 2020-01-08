@@ -94,8 +94,8 @@ index_with_subtitle: false
 menu:
   home: /
   #about: /about/ || user
-  #tags: /tags/ || tags
-  #categories: /categories/ || th
+  tags: /tags
+  categories: /categories
   archives: /archives
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
