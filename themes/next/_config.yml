@@ -104,8 +104,8 @@ menu:
 # Enable/Disable menu icons.
 menu_icons:
   enable: true
-  home: home
-  archives: archive
+  home: cat
+  archives: blog
 
 
 # ---------------------------------------------------------------
@@ -706,7 +706,7 @@ three_waves: false
 canvas_lines: false
 
 # canvas_sphere
-canvas_sphere: false
+canvas_sphere: true
 
 # Only fit scheme Pisces
 # Canvas-ribbon
@@ -813,3 +813,6 @@ images: images
 
 # Theme version
 version: 5.1.4
+
+# Fireworks
+fireworks: true
